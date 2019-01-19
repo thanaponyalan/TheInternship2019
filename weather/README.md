@@ -2,3 +2,11 @@
 ## ธนพล ยะลาน 
 ## thanaponyalan@gmail.com 
 ## 080-7806809
+
+# Reference
+  - https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm
+  - https://www.w3schools.com/xml/dom_node.asp
+  - https://stackoverflow.com/questions/5386991/java-most-efficient-method-to-iterate-over-all-elements-in-a-org-w3c-dom-docume
+  - http://www.avajava.com/tutorials/lessons/how-do-i-write-a-string-to-a-file.html
+  - https://stackoverflow.com/questions/16137713/how-do-i-run-a-java-program-from-the-command-line-on-windows
+  
